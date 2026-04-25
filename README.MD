@@ -1,14 +1,22 @@
-Solar System Explorer 🌌
+# 🌌 Solar System Explorer
 
-An interactive, space-themed solar system explorer built using modern web technologies, designed to visualize planets and their positions in an engaging way.
-🚀 Live Demo
-[Add your live demo link here]
+An interactive, space-themed **Solar System Explorer** that lets users explore planets in a visually engaging way. Designed with a clean UI and smooth interactions to simulate our cosmic neighborhood.
 
+## 🚀 Live Demo  
+🔗 https://deadbolt-dev.github.io/Solar-System-Explorer/
 
-💻 Tech Used
-Figma
-HTML
-CSS
-## 👤 Author 
-- GitHub: [Deadbolt-dev](https://github.com/Deadbolt-dev) 
-- Instagram: [@deadbolt_61](https://www.instagram.com/deadbolt_61/?hl=en)
+## ✨ Features  
+- Interactive planet selection  
+- Smooth transitions and animations  
+- Detailed planet descriptions  
+- Read Mode for focused viewing  
+- Responsive and modern UI  
+
+## 💻 Tech Used  
+- 🎨 Figma (Design)  
+- 🌐 HTML  
+- 🎨 CSS  
+
+## 👤 Author  
+- GitHub: https://github.com/Deadbolt-dev  
+- Instagram: https://www.instagram.com/deadbolt_61/
